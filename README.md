@@ -2,7 +2,7 @@
 🚀 Passionate **Computer Science student** exploring **problem-solving, web development, and competitive programming**.  
 🔍 Interested in **DSA, Python, Java, and Open-Source Contributions**.  
 🎯 Aiming to improve my **coding skills** for **internships and competitive programming**.  
-💡 Currently learning **graph algorithms and advanced DSA concepts**.
+💡 Currently learning **DSA concept**.
 
 
 ## 🌐 Socials:
