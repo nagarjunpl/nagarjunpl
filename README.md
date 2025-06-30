@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagarjun P L</h1>
 <h3 align="center">A curious coder and passionate developer</h3>
-![Profile views](https://komarev.com/ghpvc/?username=nagarjunpl&label=Profile%20views&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagarjunpl&label=Profile%20views&color=blue" alt="nagarjunpl" />
+</p>
 # 💫 About Me:
 🚀 Passionate Computer Science student exploring problem-solving, web development, and competitive programming.<br>🔍 Interested in DSA, Python and Open-Source Contributions.<br>🎯 Aiming to improve my coding skills for internships and competitive programming.<br>💡 Currently learning DSA concept.
 
