@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=nagarjunpl&label=👁️%20Visitors&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=nagarjunpl&label=Profile%20views&color=blue)
 # 💫 About Me:
 🚀 Passionate Computer Science student exploring problem-solving, web development, and competitive programming.<br>🔍 Interested in DSA, Python and Open-Source Contributions.<br>🎯 Aiming to improve my coding skills for internships and competitive programming.<br>💡 Currently learning DSA concept.
 
