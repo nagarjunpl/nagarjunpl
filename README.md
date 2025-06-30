@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagarjun P L</h1>
 <h3 align="center">A curious coder and passionate developer</h3>
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=nagarjunpl&label=Profile%20views&color=blue" alt="nagarjunpl" />
 </p>
 # 💫 About Me:
