@@ -4,7 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=nagarjunpl&label=Profile%20views&color=blue" alt="nagarjunpl" />
 </p>
 <h3>💫 About Me:<br></h3>
-🚀 Computer Science student exploring problem-solving, web development, and competitive programming.<br>🔍 Interested in DSA, Python and Open-Source Contributions.<br>🎯 Aiming to improve my coding skills for internships and competitive programming.<br>💡 Currently learning DSA concept.
+
+- 🎓 **Computer Science Engineering student at PES College of Engineering**, graduating in **2027**
+- 💼 **Former Software Engineering Intern @ Visa**
+- 🐍 Interested in **Python, Software Development, AI and DSA**
+- 🌱 Currently strengthening my **Data Structures & Algorithms** and problem-solving skills
+- 🤖 Exploring **AI-powered applications and developer tools**
+- 🧑‍💻 **Open Source Contributor** and contributor to community-driven projects
+- 🏆 Participated in multiple **hackathons and open-source programs**
 
 
 ## 🌐 Socials:
